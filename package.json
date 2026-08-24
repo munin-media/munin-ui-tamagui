@@ -26,7 +26,7 @@
   },
   "devDependencies": {
     "@munin-media/ui-core": "^1.0.2",
-    "tamagui": "^1.120.0",
+    "tamagui": "1.144.4",
     "react": "^18.3.0",
     "react-native": "^0.83.0",
     "typescript": "^5.9.0",
